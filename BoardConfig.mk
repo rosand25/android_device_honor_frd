@@ -82,7 +82,7 @@ HEALTHD_BACKLIGHT_LEVEL := 102
 # CMHW
 BOARD_HARDWARE_CLASS := \
     $(LOCAL_PATH)/cmhw \
-    hardware/cyanogen/cmhw
+    hardware/lineage/interfaces
 
 # Display
 USE_OPENGL_RENDERER := true
